@@ -238,3 +238,10 @@ Location moves to the right of the row shared with the booking form.
 MOBILE | TABLET | FULL SCREEN 
  :---:|:---:|:---:
  ![](documentation/location-mobile.png) | ![](documentation/location-tablet.png) | ![](documentation/booking-fullscreen.png)
+
+#### FOOTER
+
+Footer has been done styled with the same green background. Social media links have been added, however the links only go to the home pages of each platform.
+
+<img src="documentation/footer.png" alt="footer" />
+
