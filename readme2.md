@@ -151,21 +151,19 @@ To test various screen-size responsiveness.
 
 * First Image (KITCHEN & LIVING ROOM) is horizontal and acts as mini-hero image for this section. The following images all displays vertically afterwards.
 
--FOR MOBILE (280px-576px)
+#### FOR MOBILE (280px-576px)
 * All images flows top-down starting with 'Kitchen & Living Room' image, ending with 'Shower & Sink'
 
-<img src="documentation/mobile-images.png" alt="images-mobile"/>
-
--FOR TABLET (576px-830px)
+#### FOR TABLET (576px-830px)
 * Mini-hero image stays at the top and the other 4 images are then wrapped to show in rows of 2 each.
 
-<img src="documentation/tablet-images.png" alt="images tablet"/>
-
--FOR FULL SCREEN (830px-1000px)
+#### FOR FULL SCREEN (830px-1000px)
 
 * All images are flexed in a row order stretching from left to right
 
-<img src="documentation/images-full-screen.png" alt="images full screen"/>
+MOBILE | TABLET | FULL SCREEN 
+ :---:|:---:|:---:
+ ![](documentation/mobile-images.png) | ![](documentation/tablet-images.png) | ![](documentation/images-full-screen.png)
 
 ### FEATURES LIST SUB-SECTION
 
@@ -188,6 +186,3 @@ MOBILE | TABLET | FULL SCREEN
  ![](documentation/thingstodo-mobile.png) | ![](documentation/thingstodo-tablet.png) | ![](documentation/thingstodo-fullscreen.png)
 
 
-MOBILE | TABLET | FULL SCREEN 
- :---:|:---:|:---:
- ![](documentation/mobile-images.png) | ![](documentation/tablet-images.png) | ![](documentation/images-full-screen.png)
