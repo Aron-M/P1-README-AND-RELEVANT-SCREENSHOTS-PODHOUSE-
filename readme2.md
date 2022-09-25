@@ -129,7 +129,7 @@ To test various screen-size responsiveness.
 
     - How it should be: 
 
-    <img src="documentation/anchor-protect.png" alt="nav bar error" />
+    <img src="documentation/anchor-correct.png" alt="nav bar error" />
 
     
 
