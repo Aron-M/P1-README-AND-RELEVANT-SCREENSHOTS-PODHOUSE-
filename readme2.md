@@ -51,11 +51,13 @@ Backup fonts is sans-serif if main font cannot be loaded for any reason.
 Various images have been used to showcase the property. These images, of both the exterior and interior, were taken personally and shows the user what the property looks like and what they can expect when they choose to make a booking.
 
 Website structure
-Screen size	Breakpoint
-small   >= 280px (mobile-first design)
-medium	>= 576px
-large	>= 830px
-extra large	>= 1000px
+
+|-------Screen size	Breakpoint----------|
+|---------------------------------------|
+|small   |>= 280px (mobile-first design)|
+|medium	 |>= 576px----------------------|
+|large	 |>= 830px----------------------|
+|extra   |large	>= 1000px---------------|
 
 Back to top
 
@@ -96,13 +98,15 @@ Fontawesome was used to obtain various icons used within the website, such as wi
 
 To test various screen-size responsiveness.
 
-# Features
+# SECTIONS OF WEBSITE
 
-1. Responsive on all devices.
-2. About us
-3. Various visuals and descriptive coptions.
-4. Book a date to stay.
-5. Find location
+1. Navigation Bar
+2. Home/Landing Page section
+3. THE POD images and features section
+4. THINGS TO DO section
+5. BOOKING FORM section
+6. LOCATION/ADDRESS section
+7. Footer
 
 ## Navigation bar
 
@@ -114,14 +118,14 @@ To test various screen-size responsiveness.
     <img src="documentation/mobile-nav-bar.png" alt="mobile nav bar" />
 
 
-    - Error 1 on tablets and pc screens:
+    - ERROR 1 ON TABLET AND PC DEVICES:
 
      <img src="documentation/tablet-pc-nav-error.png" alt="nav bar error" />
 
 
         PLEASE NOTE: ERROR has occured where "THE POD HOUSE" logo does not stick to the left as the dimensions become bigger at tablet and pc display.
 
-    - Error 2 on all devices
+    - ERROR 2 ON ALL DEVICES
 
     <img src="documentation/anchor-error.png" alt="nav bar error" />
 
@@ -129,14 +133,15 @@ To test various screen-size responsiveness.
 
     - How it should be: 
 
-    <img src="documentation/anchor-correct.png" alt="nav bar error" />
+    <img src="documentation/anchor-correct.png" alt="nav bar error" />    
 
-    
+<hr>
 
-    
-    
-    
-  
+##Landing Page
 
-- Main content of website will be nicely adjusted on all devices with pictures below:
+* Landing page should show the main header and include some/all (depending on device) of the 2 hero images. This is followed by 2 paragraphs of descriptive text.
+
+<img src="documentation/landing-page.png" alt= "Landing page" />
+
+##THE POD Features section
 
