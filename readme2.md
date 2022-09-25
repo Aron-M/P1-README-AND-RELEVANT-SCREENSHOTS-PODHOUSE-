@@ -154,7 +154,7 @@ To test various screen-size responsiveness.
 -FOR MOBILE (280px-576px)
 * All images flows top-down starting with 'Kitchen & Living Room' image, ending with 'Shower & Sink'
 
-<img src="documentation/mobile-images" alt="images-mobile"/>
+<img src="documentation/mobile-images.png" alt="images-mobile"/>
 
 -FOR TABLET (576px-830px)
 * Mini-hero image stays at the top and the other 4 images are then wrapped to show in rows of 2 each.
