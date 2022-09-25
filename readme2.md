@@ -2,6 +2,8 @@
 
 <img src="documentation/amiresponsive.png" alt- Am I Responsive />
 
+https://aron-m.github.io/SLIGO-POD-HOUSE-RENTAL-MOBILE-FIRST/
+
 THE POD HOUSE is a web page designed to advertise our tiny-house property as short-term holiday rental for tourists who want to explore Sligo North area. The page provides users with relevant information, as well as the option to make a booking for their desired dates of visiting.
 
 ## User Experience (UX)
@@ -245,4 +247,65 @@ MOBILE | TABLET | FULL SCREEN
 Footer has been done styled with the same green background. Social media links have been added, however the links only go to the home pages of each platform.
 
 <img src="documentation/footer.png" alt="footer" />
+
+## KNOWN BUGS
+
+As shown previously, there have been a fair few bugs identified and could not be rectified due to time constraints, namely:
+
+* Sticky nav-bar has 'POD HOUSE' logo that doesn't stick to the left as screen size changes.
+* Sticky bar hovers over every H1 anchored to the nav-icon within the sticky header.
+* Form dates does not clearly convey 'TO' and 'FROM' information at each bar.
+* Form return page is not well designed, and the 'return to main page' button is not styled to look like a button.
+* A certain amount of CSS style rules within the code have not been cleaned up. Some style rules can be seen as redundant, overriding and/or unneccessary. 
+* Validator errors have not been fixed due to time constraints.
+
+
+#### VALIDATOR
+
+<img src="documentation/validator-errors.png" alt="validator errors" />
+
+Validator errors, were unfortunately not rectified due to time constraints.
+
+# DISCLAIMER
+
+During the creation of this webpage, I have encountered various learning curves where I have had to pivot and start again from the beginning. To be more specific, it happened twice where I stopped midway through creation to start fresh.
+
+One of the main reasons were to change from full-screen-first to rather start developing from mobile-first.
+In doing so, I then started a new repository and copied my old code as I saw fit within the new repository.
+
+Therefore a big percentage of my commit history will not be shown within my final draft.
+
+Here, I have attached the two previous attempts for your perusal. Here you will see the bulk of my previous commits and how the webpage grew from attempt to attempt, with code changing as I learnt better ways to achieve what I wanted to set out for.
+
+#### ATTEMPT 1:
+
+https://aronm-ballyconnellattr-dmo4rqa51ga.ws-eu67.gitpod.io/
+
+#### ATTEMPT 2:
+
+https://aronm-podhouseholidayr-nl656b9zy87.ws-eu67.gitpod.io/
+
+Here you will see the progress of how the site developed, with access to my commit history.
+
+
+# Deployment
+Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+
+1. Navigate to the repository on github and click **Settings**.
+2. Then select **Pages** on the side navigation.
+3. Select the None dropdown, and then click **Main**.
+4. Click on the **Save** button.
+5. Now the website is now live on 
+6. If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+# Credits:
+
+- Slack Community members such as Mr. Bim, Dave Horrocks, John Traas, Matt Bodden and Daisy_mentor for selflessly helping me with queries and questions.
+- [Rohit Sharma](https://github.com/rohit_mentor) My helpful mentor.
+- [Simen Daehlin](https://github.com/Eventyret) for helpful Masterclasses.
+- [Google Maps](https://www.google.com/maps/) for google maps.
+- [screenfly](https://screenfly.org/) for testing my website).
+- [Fontawesome](https://fontawesome.com/kits) for icons.
+- [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Validation of CSS.
+- [AmIresponsive](https://ui.dev/amiresponsive) for responsive look of my website.
 
