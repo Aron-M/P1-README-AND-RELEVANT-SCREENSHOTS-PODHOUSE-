@@ -137,15 +137,18 @@ To test various screen-size responsiveness.
 
 <hr>
 
-##Landing Page
+## Landing Page
 
 * Landing page should show the main header and include some/all (depending on device) of the 2 hero images. This is followed by 2 paragraphs of descriptive text.
 
 <img src="documentation/landing-page.png" alt= "Landing page" />
 
-##THE POD Features section
+## THE POD Images/features section
 
--The FEATURES section starts with THE POD header followed by 5 images of the tiny-house's interior. 
+-The FEATURES section starts with THE POD header followed by two sub-sections IMAGES and FEATURES, which include 5 images of the tiny-house's interior, followed by a list of features the guests can expect when booking the tiny-house.
+
+### IMAGES SUB-SECTION
+
 * First Image (KITCHEN & LIVING ROOM) is horizontal and acts as mini-hero image for this section. The following images all displays vertically afterwards.
 
 -FOR MOBILE (280px-576px)
@@ -163,4 +166,11 @@ To test various screen-size responsiveness.
 * All images are flexed in a row order stretching from left to right
 
 <img src="documentation/images-full-screen.png" alt="images full screen"/>
+
+### FEATURES LIST SUB-SECTION
+
+* The FEATURES LIST is the second part of THE POD section. The list includes 6 features, each containing an icon abtained at Fontawesome.
+
+
+
 
