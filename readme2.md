@@ -215,3 +215,26 @@ The DATES area should have had clearer directions, and should have been displaye
 The form is responsive, with a message indicating that the useer's booking was succesful, and with a button to revert the user back to the main webpage.
 
 <img src="documentation/form-return.png" alt="form-return" />
+
+#### FORM DESIGN ERROR:
+
+The design of the form return page is functional, however poorly designed and can be better styled. The return button especially was very hastily done due to time constraints.
+
+## LOCATION SECTION
+
+#### MOBILE
+
+Location section sits right at the bottom, with address attached at the top of the map.
+Map was retrieved from Google Maps.
+
+#### TABLET
+
+Location section is at the bottom, hugging the footer, with address attached at the top of the map.
+
+#### FULL SCREEN
+
+Location moves to the right of the row shared with the booking form.
+
+MOBILE | TABLET | FULL SCREEN 
+ :---:|:---:|:---:
+ ![](documentation/location-mobile.png) | ![](documentation/location-tablet.png) | ![](documentation/booking-fullscreen.png)
