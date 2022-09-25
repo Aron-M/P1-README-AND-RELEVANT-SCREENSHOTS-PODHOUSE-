@@ -185,4 +185,33 @@ MOBILE | TABLET | FULL SCREEN
  :---:|:---:|:---:
  ![](documentation/thingstodo-mobile.png) | ![](documentation/thingstodo-tablet.png) | ![](documentation/thingstodo-fullscreen.png)
 
+## BOOKING SECTION
 
+#### FOR MOBILE
+
+Booking form is implimented fairly basic, with NAME; EMAIL; DATE FROM; DATE TO; MESSAGE.
+
+#### FOR TABLET
+
+Layout keeps the same design and only stretches out a bit as the screen widens.
+
+#### FOR PC
+
+Layout stays the same, however LOCATION section moves to the right of the form section.
+
+MOBILE | TABLET | FULL SCREEN 
+ :---:|:---:|:---:
+ ![](documentation/booking-mobile.png) | ![](documentation/booking-tablet.png) | ![](documentation/booking-fullscreen.png)
+
+
+#### BOOKING DISPLAY ERROR:
+
+<img src="documentation/booking-error.png" alt="booking-display-error" />
+
+The DATES area should have had clearer directions, and should have been displayed as shown below.
+
+#### FORM:
+
+The form is responsive, with a message indicating that the useer's booking was succesful, and with a button to revert the user back to the main webpage.
+
+<img src="documentation/form-return.png" alt="form-return" />
