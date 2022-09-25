@@ -52,12 +52,12 @@ Various images have been used to showcase the property. These images, of both th
 
 Website structure
 
-|-------Screen size	Breakpoint----------|
-|---------------------------------------|
+| Screen size | Breakpoint |
+|---|---|
 |small   |>= 280px (mobile-first design)|
-|medium	 |>= 576px----------------------|
-|large	 |>= 830px----------------------|
-|extra   |large	>= 1000px---------------|
+|medium	 |>= 576px|
+|large	 |>= 830px|
+|extra   |large	>= 1000px|
 
 Back to top
 
