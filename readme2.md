@@ -123,13 +123,13 @@ To test various screen-size responsiveness.
 
     - Error 2 on all devices
 
-    <img src="documentation/anchor-error" alt="nav bar error" />
+    <img src="documentation/anchor-error.png" alt="nav bar error" />
 
         PLEASE NOTE: ERROR has occured where the sticky-nav bar falls over the intended anchored element, causing the  anchored H1 elements not too display at the top
 
     - How it should be: 
 
-    <img src="documentation/anchor-protect" alt="nav bar error" />
+    <img src="documentation/anchor-protect.png" alt="nav bar error" />
 
     
 
