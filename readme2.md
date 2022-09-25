@@ -162,5 +162,5 @@ To test various screen-size responsiveness.
 
 * All images are flexed in a row order stretching from left to right
 
-<img src="documentation/images-full-screen.png" alt="images full screen">/
+<img src="documentation/images-full-screen.png" alt="images full screen"/>
 
