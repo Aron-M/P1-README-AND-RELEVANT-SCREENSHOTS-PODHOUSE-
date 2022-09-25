@@ -114,12 +114,22 @@ To test various screen-size responsiveness.
     <img src="documentation/mobile-nav-bar.png" alt="mobile nav bar" />
 
 
-    - Error on tablets and pc screens:
+    - Error 1 on tablets and pc screens:
 
      <img src="documentation/tablet-pc-nav-error.png" alt="nav bar error" />
 
 
         PLEASE NOTE: ERROR has occured where "THE POD HOUSE" logo does not stick to the left as the dimensions become bigger at tablet and pc display.
+
+    - Error 2 on all devices
+
+    <img src="documentation/anchor-error" alt="nav bar error" />
+
+        PLEASE NOTE: ERROR has occured where the sticky-nav bar falls over the intended anchored element, causing the  anchored H1 elements not too display at the top
+
+    - How it should be: 
+
+    <img src="documentation/anchor-protect" alt="nav bar error" />
 
     
 
