@@ -175,5 +175,15 @@ To test various screen-size responsiveness.
  :---:|:---:|:---:
  ![](documentation/includes-mobile.png) | ![](documentation/includes-tablet.png) | ![](documentation/includes-fullscreen.png)
 
+## 'THINGS TO DO' SECTION
 
+This section includes 6 images of various activities and things to do within the nearby area of the tiny-house. This provides information to the user of what they can look forward to doing around the nearby area.
+
+* PLEASE NOTE: These images were sourced from FONTAWESOME and converted to .jpegs due to needing some of the icons' background colour within the icon in order to match the background of the webpgae. I did that by editing the downloaded icon and changing it in MS Paint, and then uploading those .jpegs to the 'assets' folder.
+
+* All images were captioned directly uderneath the image.
+
+MOBILE | TABLET | FULL SCREEN 
+ :---:|:---:|:---:
+ ![](documentation/thingstodo-mobile.png) | ![](documentation/thingstodo-tablet.png) | ![](documentation/thingstodo-fullscreen.png)
 
