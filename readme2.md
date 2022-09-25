@@ -114,10 +114,14 @@ To test various screen-size responsiveness.
     <img src="documentation/mobile-nav-bar.png" alt="mobile nav bar" />
 
 
+    - Error on tablets and pc screens:
+    
+     <img src="documentation/tablet-pc-nav-error" alt="nav bar error" />
+
+
         PLEASE NOTE: ERROR has occured where "THE POD HOUSE" logo does not stick to the left as the dimensions become bigger at tablet and pc display.
 
-     <img src="documentation/tablet-pc-nav-error alt="nav bar error" />
-
+    
 
     
     
